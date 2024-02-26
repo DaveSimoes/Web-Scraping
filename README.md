@@ -49,19 +49,13 @@ pip install -r requirements.txt
 
 ```
 
-Run the main script:
+3. Run the main script:
 
 ```bash
 python src/main.py
 ```
 
-## Project Structure
 
-src/: Contains the project source code.
-main.py: The main script to initiate web scraping.
-scraper.py: The module containing the scraping logic.
-requirements.txt: List of project dependencies.
-.gitignore: File to ignore unnecessary files in the repository.
 
 ### Contribution
 
