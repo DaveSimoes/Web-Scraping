@@ -38,7 +38,7 @@ How to Use
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/web_scraping_project.git
+git clone https://github.com/DaveSimoes/web_scraping_project.git
 cd web_scraping_project
 ```
 
